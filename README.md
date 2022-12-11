@@ -1,8 +1,6 @@
 # tic-tac-toe
 Simple Command-Line Tic-Tac-Toe Game
-# header H1
-## header H2
-### header H3
-#### header H4
-##### header H5
-###### header H6
+
+## how to play
+Firt type the row, then space and the column. 
+All of the other rules are based on the official Tic-Tac-Toe game
